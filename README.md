@@ -1,9 +1,8 @@
-<h3>Hi there! 👋 I'm Debashis Saha </h3>
-<h4>
-🚀 Passionate Python developer exploring the world of coding and technology.<br><br>
-🐍 Experienced in building efficient and scalable solutions using Python.<br><br>
-🔍 Always learning new libraries, frameworks, and best practices.<br>
-</h4>
+<h4>Hi there! 👋 I'm Debashis Saha </h4>
+<h5>
+- Passionate Python developer exploring the world of coding and technology.<br><br>
+- Always learning new libraries, frameworks.<br>
+</h5>
 
 <p align="left">
 </p>
